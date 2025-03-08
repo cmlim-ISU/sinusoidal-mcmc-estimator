@@ -1,6 +1,3 @@
-# sinusoidal-mcmc-estimator
-Estimation of Frequency and Phase of Sinusoidal Signal using MCMC
-
 # Sinusoidal Signal Parameter Estimation using MCMC
 
 This repository contains code and documentation for estimating the frequency and phase of a sinusoidal signal using Markov Chain Monte Carlo (MCMC) methods with Stan.
